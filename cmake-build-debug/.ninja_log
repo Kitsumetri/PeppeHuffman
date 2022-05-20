@@ -1,0 +1,11 @@
+# ninja log v5
+585	631	1653034813959429275	PeppeHuffman	9b6f723462a1d60d
+2	140	1653034813466207931	CMakeFiles/PeppeHuffman.dir/H_Node.cpp.o	a334f135975380d
+2	515	1653034813840836698	CMakeFiles/PeppeHuffman.dir/main.cpp.o	f5fb135f150e827c
+2	585	1653034813910438379	CMakeFiles/PeppeHuffman.dir/PriorityQueue.cpp.o	c3bfdac5591cf8f0
+1	708	1653034465683283580	CMakeFiles/PeppeHuffman.dir/Compress_Decompress.cpp.o	6b71f639cf0439d2
+4	488	1652991260917104128	CMakeFiles/PeppeHuffman.dir/H_tree.cpp.o	25160d53cc271bda
+2	691	1653027759786688985	CMakeFiles/PeppeHuffman.dir/Words.cpp.o	29c78918cd1826ed
+0	64	1653035693571106272	build.ninja	c5cbf148e2bef277
+3	534	1653035694111402388	CMakeFiles/PeppeHuffman.dir/PriorityQueue.cpp.o	c3bfdac5591cf8f0
+534	575	1653035694154956073	PeppeHuffman	9b6f723462a1d60d
